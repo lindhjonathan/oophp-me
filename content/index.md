@@ -1,25 +1,24 @@
 ---
-title: "Hem - Jonathans Me-sida i oophp"
+title: "Hem - Jonathans Me-sida"
 ---
 Min me-sida i kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+Välkommen till min me-sida i kursen oophp som är en del av dbwebbs kursutbud vid BTH.
+Denna sidan innehåller en presentation av mig själv. Nästliggande sidor har diverse
+annat innehåll, känn dig välkommen att snoka runt!
 
-[FIGURE src="image/me.jpg?w=500" caption="Bild på mig"]
+De flesta sidor här är skrivna i markdown, de återfinns i katalogon `content/*`.
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+[FIGURE src="image/me.png?w=320" caption="Bild på mig"]
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Så, lite om mig då, vem är jag?
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Mitt namn är Jonathan Lindh. Född och uppvuxen strax norr om Kalmar, där jag bodde fram
+till 2014 då jag tog studenten och bestämde mig för att testa vingarna ner mot blekinge och
+BTH. Jag har hunnit test på diverse saker, men webbprogrammering känns rätt för mig.
+Jag gymmar relativt regelbundet, oftast beroende på hur mycket plugg man bär runt på sina axlar.
+Umgås och festar med kompisar när jag är på det humöret, vilket inte tillhör ovanligheten, men
+helst spenderar jag tid hemma med tjejen.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+Andra året vid dbwebb påbörjat, låt oss se vart det leder!

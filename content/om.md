@@ -5,14 +5,12 @@ Om
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
 
-Denna webbplatsen är en del av kursen [XXX](https://dbwebb.se/kurser/XXX). Uppdatera så att länken går till kursens hemsida på dwebb.se.
+Denna webbplatsen är en del av kursen [OOPHP](https://dbwebb.se/kurser/oophp-v4).
 
-Några egna kloka ord om kursen?
+Objekt, ramverk och annat kul! Ser fram emot att utöka kunskapsbanken rejält.
 
-En fin och representativ bild för kursen, enligt ditt egna val.
+[FIGURE src=image/question.jpg?w=300 caption="Allt är möjligt i php, nästan."]
 
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+Du kan hitta kursen oophp på [GitHub](https://github.com/dbwebb-se/oophp).
 
-Länka till [dbwebb kursrepot på GitHub](https://github.com/dbwebbse/XXX).
-
-Länka till [ditt eget repo för me/redovisa på GitHub](https://github.com/XXX/XXX).
+Kolla in mina egna [GitHub-repon!](https://github.com/lindhjonathan/oophp-me).

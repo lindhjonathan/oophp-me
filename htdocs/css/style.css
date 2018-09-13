@@ -7,9 +7,31 @@ html {
 }
 
 body {
+    font-family: 'Lora', serif;
     margin: 0;
     background-color: #fff;
     word-wrap: break-word;
+}
+
+.title {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 2.4rem;
+    border-bottom: 1px solid #ccc;
+    margin-top: 0;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 1.8rem;
+    border-bottom: 1px solid #ccc;
+    margin-top: 0;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 1.6rem;
+    font-weight: 500;
 }
 
 .outer-wrap {
@@ -30,9 +52,8 @@ body {
  */
 .outer-wrap-header {
     max-width: 100%;
-    min-height: 2em;
-    background-color: #000;
-    color: #fff;
+    min-height: 16em;
+    background: url(../image/header.jpg);
 }
 
 .outer-wrap-header {
@@ -45,10 +66,9 @@ body {
 
 .header-logo {
     position: absolute;
-    top: 7em;
-    left: 1em;
+    top: 3em;
+    left: 2em;
 }
-
 
 
 /**
@@ -57,17 +77,42 @@ body {
 .outer-wrap-navbar {
     max-width: 100%;
     min-height: 2em;
-    background-color: #535353;
-    color: #fff;
-    padding: 0.5em 0;
-}
-
-.outer-wrap-navbar a {
     color: #fff;
 }
 
-.outer-wrap-navbar a:hover {
-    color: #ddd;
+.top-nav {
+    overflow: hidden;
+    border-top: 1px solid #ccc;
+    width: 100%;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    background: white;
+    display: flex;
+    flex-flow: row || nowrap;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+
+.top-nav a {
+    text-align: center;
+    color: #666;
+    text-decoration: none;
+}
+
+.top-nav a:hover {
+    color: #6e01ad;
+}
+
+.top-nav a.active {
+    color: #3b003f;
+}
+
+.top-nav i {
+    display: block;
+}
+
+.top-nav span {
+    font-size: 1.2rem;
 }
 
 
@@ -82,10 +127,6 @@ body {
 
 .wrap-main h1 {
     border-bottom: 1px solid #999;
-}
-
-.wrap-main h2 {
-    border-bottom: 1px solid #ccc;
 }
 
 h1 {
@@ -103,6 +144,17 @@ h1 {
     background-color: #424242;
     color: #fff;
     padding: 1em 0;
+}
+
+.footer-image {
+    position: absolute;
+    left: 2em;
+}
+
+.footer-text {
+    position: relative;
+    padding-left: 4rem;
+    padding-top: 1rem;
 }
 
 

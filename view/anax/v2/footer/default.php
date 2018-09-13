@@ -11,4 +11,10 @@ namespace Anax\View;
 
 ?>
 
-FOOTER
+<footer>
+    <img class="footer-image" src="<?= asset("img/byline-logo.png") ?>" alt="Footer">
+    <div class="footer-text">
+        <p>Hemsidan är en del av kursen oophp</p>
+        <p style="font-size: 14px;">Ansvarig utgivare: lindh.jonathan@gmail.com</p>
+    </div>
+</footer>

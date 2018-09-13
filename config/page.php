@@ -13,10 +13,12 @@ return [
         "region" => "layout",
         "sort" => null,
         "data" => [
-            "baseTitle" => " | oophp",
+            "baseTitle" => " | jodn14/oophp",
             "favicon" => "favicon.ico",
             "stylesheets" => [
                 "css/style.css",
+                "https://fonts.googleapis.com/icon?family=Material+Icons",
+                "https://fonts.googleapis.com/css?family=Lora|Alegreya+Sans:100,400,500",
             ],
             "javascripts" => [
                 "js/main.js",
