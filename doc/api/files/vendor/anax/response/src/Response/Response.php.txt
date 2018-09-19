@@ -204,15 +204,11 @@ class Response
      * @param string $url to redirect to
      *
      * @return void
-     *
-     * @SuppressWarnings(PHPMD.ExitExpression)
      */
     public function redirect($url)
     {
-        if (!headers_sent()) {
-            header("Location: " . $url);
-            exit;
-        }
+        $this->addHeader("Location: " . $url);
+        $this->body = null;
     }
 }
 

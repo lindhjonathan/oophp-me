@@ -22,10 +22,10 @@ return [
         "image" => "face",
     ],
     [
-        "text" => "Lek",
-        "url" => "lek",
-        "title" => "Lek runt och testa att integrera kod i me-sidan.",
-        "image" => "child_care",
+        "text" => "Gissa",
+        "url" => "gissa",
+        "title" => "Gissa mitt nummer",
+        "image" => "looks_one",
     ],
     [
         "text" => "Development",
