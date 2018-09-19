@@ -32,8 +32,24 @@ I detta kursmoment har jag lärt mig hur objekt fungerar i php. Inte fullskaligt
 Kmom02
 -------------------------
 
-Här är redovisningstexten
+Hur gick det att överföra spelet “Gissa mitt nummer” in i din me-sida?
 
+Det gick bra. Jag känner mig fortfarande lite vilsen i mappträdet, men förståelsen för
+var alla saker har sin plats går stadigt uppåt. Mikaels video om att integrera nummer med
+GET var en bra guide. POST var inte mycket skillnad. Att föra över session-versionen var inte
+heller så svårt, det gällde bara att nollställa alla SESSION-variabler och återskapa med nya värden. Jag är inte helt hundra på att min kod är optimerad, den kan säkert bli mer effektiv. Men den fungerar och ser helt ok ut.
+
+Berätta om din syn på modellering likt UML jämfört med verktyg som phpDocumentor. Fördelar, nackdelar, användningsområde? Vad tycker du om konceptet make doc?
+
+UML ger en snabbare överblick över systemet upp till en viss storleksgrad. Navigationsmöjligheten i phpdoc ger en klar fördel när man arbetar med flertalet klasser i flertalet namespaces. Konceptet är bra, snabbt och smidigt att generera ett dokument, givet all kod bakom. Jag är inte säker på att jag skulle kunna slänga ihop något sådant på egen hand om man jämför med en UML-tabell som man kan skapa oavsett storlek på kodbasen.
+
+Hur känns det att skriva kod utanför och inuti ramverket, ser du fördelar och nackdelar med de olika sätten?
+
+Fördelarna med att skriva kod inuti ramverket är ju att man kan återanvända stora mängder kod. Nackdelen är ju att om man ska testa flera små saker så behöver man oftast uppdatera information/kod i flera olika filer och det kan bli rörigt om man ska skriva om vissa kodsnuttar hela tiden. Jag kanske kommer känna annorlunda när jag är mer insatt i ramverket, men just nu känns det som sagt fortfarande lite främmande att navigera bland alla mappar och filer.
+
+Vilken är din TIL för detta kmom?
+
+TIL mer om ramverk och hur namespaces fungerar i PHP.
 
 
 Kmom03
